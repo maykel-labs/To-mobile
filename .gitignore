@@ -1,0 +1,24 @@
+# Android / Gradle
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+
+# Flutter / Dart (si se elige Flutter)
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Editor y sistema
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Secretos
+.env
+.env.*
+!.env.example
